@@ -1,0 +1,190 @@
+.body{
+    margin: 0px;
+    padding: 0px;
+    /* background-repeat: no-repeat; */
+}
+.container{
+    height: 100vh;
+    width: 100%;
+    background-image: url("netflix img.avif");
+    background-size:cover ;
+    /* background-color: rgb(37, 34, 34); */
+    /* background-image: url("netflix img.avif");
+    background-repeat: no-repeat; */
+}
+ .container img{
+    height: 215px;
+    width: 260px;
+    float: left;
+} 
+ .box {
+    height: 40px;
+    width: 80px;
+    background-color: rgb(54, 48, 48);
+     text-align: right; 
+     margin-left: 50px; 
+     border-radius: 5px;
+    float: right; 
+    margin: 10px;
+    margin-top: 50px; 
+    border: 2px solid white;   
+    color: whitesmoke;
+    font-size: 18px;
+    justify-content: center;
+    text-align: center;
+ }
+ .box:hover{
+    background-color: rgb(108, 104, 104);
+ }
+   
+
+.center p {
+color: white;
+font-size: 55px;
+padding-top: 200px;
+font-weight: bolder;
+/* margin-top: 280px; */
+/* text-align: center; */
+/* justify-content: center; */
+}
+.line1{
+    color: white;
+    width: 695px;
+    font-size: 25px;
+    text-align: center;
+    justify-content: center;
+    margin-left: 320px;
+    /* margin-top: 30px; */
+
+    /* padding-top: 200px;  */
+}
+.line{
+    color: whitesmoke;
+    font-size: 20px;
+    text-align: center;
+    justify-content: center;
+    margin-left: 40px;
+}
+.btn{
+    height: 50px ;
+    width: 160px;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    justify-content: center;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.btn:hover{
+    background-color: rgb(231, 92, 92);
+}
+.btn:active{
+    background-color: rgb(56, 3, 3);
+}
+.box2 input{
+    height: 46px;
+    width: 280px;
+    background-color: rgb(54, 48, 48);
+    border: 1px solid white;
+    border-radius: 5px;
+    float: left;
+    margin-left:340px;
+    margin-top: 50px;
+    color: whitesmoke;
+    font-size: 20px;
+    justify-content: center;
+    text-align: center;
+}
+.box2 input:hover{
+    background-color: rgb(32, 27, 27);
+}
+
+.shows{
+    height: 350px;
+    width: 100%;
+    margin-top: 2px;
+    background-color: rgb(32, 27, 27);
+}
+.shows img{
+    height: 250px;
+    width: 330px;
+    float: right;
+    margin: 70px;
+    border-radius: 5px;
+}
+.shows p{
+   color: white;
+    float: left; 
+     margin: 140px;
+     text-align: center;
+     justify-content: center;
+     font-size: 40px;
+     font-style: oblique;
+}
+.show2{
+    height: 350px;
+    width: 100%;
+    margin-top: 1px;
+    background-color: rgb(32, 27, 27);
+}
+.show2 img{
+    height: 250px;
+    width: 330px;
+display: inline-flex;    /* margin-right: 100px; */
+    margin: 70px;
+    border-radius: 5px;
+}
+.show2 p{
+    color: aliceblue;
+    float: right;
+    margin: 115px;
+    text-align: center;
+    justify-content: center;
+    
+    
+}
+.show3{
+    height: 350px;
+    width: 100%;
+    margin-top: 1px;
+    background-color: rgb(32, 27, 27);
+}
+.show3 img{
+    height: 250px;
+    width: 330px;
+    float: right;
+    margin: 70px;
+    border-radius: 5px;
+}
+.show3 p{
+    color: aliceblue;
+    float: left;
+    margin: 50px;
+    text-align: center;
+    justify-content: center;
+   
+}
+.show4{
+    height: 350px;
+    width: 100%;
+    margin-top: 1px;
+    background-color: rgb(32, 27, 27);
+}
+.show4 img{
+    height: 250px;
+    width: 330px;
+    float: left;
+    margin: 70px;
+    border-radius: 5px;
+}
+.show4 p{
+    color: aliceblue;
+    float: right;
+    margin: 140px;
+    text-align: center;
+   }
+
+    
+    
